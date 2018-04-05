@@ -31,7 +31,7 @@
 				$_SESSION['address'] = $userAddress;
 				$_SESSION['loggedin'] = true;
 
-				header("location:vault_upload.php");
+				header("location:ic_overview.php");
 			}
 			else
 			{
