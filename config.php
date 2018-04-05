@@ -5,7 +5,7 @@
 	 */
 	class AssetParams
 	{
-		const INIT_QTY = 1000;
+		const INIT_QTY = 1;
 		const ASSET_NAME = "yourcoin";
 	}
 
