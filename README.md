@@ -3,7 +3,7 @@ VoteApp
 
 > WARNING: Vote App is intended for experimenting and learning, NOT for a production environment.
 
-![Image of VoteApp]()
+![Image of VoteApp](rtp-demo.png)
 
 The Vote App is an application built in php that can be readily deployed on [Multichain](https://github.com/MultiChain).
 
