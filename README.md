@@ -43,5 +43,5 @@ Contributors
 -------------
 * Dane Walter ()
 * Roy Hodge (roy.hodge@mail.com) 
-* Jon Stokes () 
+* Jon Stokes (jonstokes@spacelab.io) 
 * Sean Mills () 
