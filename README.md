@@ -11,12 +11,12 @@ The Vote App is an application built in php that can be readily deployed on [Mul
 System Requirements
 -------------------
 
-An instance of [VoteChain](https://github.com/unibitlabs/chain)
+An instance of [VoteChain](https://github.com/davidcopperfield-magicman/VoteChain)
 
 Installation
 ------------
 
-The Vote App is automatically installed during the [Vote Chain](https://github.com/unibitlabs/chain) setup.
+The Vote App is automatically installed during the [Vote Chain](https://github.com/davidcopperfield-magicman/VoteChain) setup.
 
 Creating an account
 ---------------------
